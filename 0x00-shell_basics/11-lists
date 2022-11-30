@@ -1,2 +1,2 @@
 #!/binsh
-ls -la . .. /boot
+ls -la . .. 
