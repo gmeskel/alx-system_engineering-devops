@@ -1,2 +1,2 @@
-!@/bin/bush
+#!/bin/bush
 chmod u+x hello
